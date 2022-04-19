@@ -1,2 +1,3 @@
 # CMPE279_Software_Security_Tech_Sp22
-Assignment done individually
+Assignment1 done individually
+Assignment 2 done individually
